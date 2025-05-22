@@ -1,0 +1,14 @@
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+D:\Faculta\AN3\sem2\II\Lab3\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll
