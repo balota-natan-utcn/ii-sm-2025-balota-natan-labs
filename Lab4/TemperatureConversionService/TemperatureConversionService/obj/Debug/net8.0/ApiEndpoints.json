@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "TemperatureConversionService.Controllers.TemperatureController",
+    "Method": "CelsiusToFahrenheit",
+    "RelativePath": "api/Temperature/celsius-to-fahrenheit/{celsius}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "celsius",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TemperatureConversionService.Controllers.TemperatureController",
+    "Method": "ConvertTemperature",
+    "RelativePath": "api/Temperature/convert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TemperatureConversionService.Controllers.TemperatureRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TemperatureConversionService.Controllers.TemperatureResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TemperatureConversionService.Controllers.TemperatureController",
+    "Method": "FahrenheitToCelsius",
+    "RelativePath": "api/Temperature/fahrenheit-to-celsius/{fahrenheit}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fahrenheit",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

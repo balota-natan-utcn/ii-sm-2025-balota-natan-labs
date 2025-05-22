@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S99rFuxCdA8kqvfWSsw5S7wn5peBdwb4NQkV+H//mU0=",
+  "Source": "TemperatureConversionService",
+  "BasePath": "_content/TemperatureConversionService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
