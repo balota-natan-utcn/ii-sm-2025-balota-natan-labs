@@ -1,0 +1,9 @@
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\obj\Debug\RGBColorChanger.csproj.AssemblyReference.cache
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\obj\Debug\RGBColorChanger.Properties.Resources.resources
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\obj\Debug\RGBColorChanger.csproj.GenerateResource.cache
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\obj\Debug\RGBColorChanger.csproj.CoreCompileInputs.cache
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\bin\Debug\RGBColorChanger.exe.config
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\bin\Debug\RGBColorChanger.exe
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\bin\Debug\RGBColorChanger.pdb
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\obj\Debug\RGBColorChanger.exe
+D:\Faculta\AN3\sem2\II\Lab6\RGBColorChanger\RGBColorChanger\obj\Debug\RGBColorChanger.pdb
